@@ -7,7 +7,7 @@ This README displays on our GitHub Organization homepage.
 
 > **L**eading **I**nnovation and **K**nowledge, **H**arnessing **A**utomation.
 
-We are an **8-member capstone team** from [Your University Name], building a sustainable IoT solution designed to empower and uplift our local community. 
+We are an **8-member capstone team** from University of Caloocan CIty, building a sustainable IoT solution designed to empower and uplift our local community. 
 
 Our name reflects our core belief: that true progress comes from **leading** with fresh ideas, grounding ourselves in **knowledge**, and using **automation** to create meaningful, real-world impact.
 
