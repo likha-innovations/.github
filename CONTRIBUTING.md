@@ -38,7 +38,7 @@ As **Likha Innovations**, we are building an IoT-based solution that is **sustai
 | **Sustainability** | We write code that is modular, easy to debug, and hardware-agnostic where possible. |
 
 ### Who we are
-We are an 8-member capstone team from [Your University] working under the guidance of our adviser. Our project focuses on leveraging IoT to solve a real-world community problem.
+We are an 8-member capstone team from University of Caloocan City working under the guidance of our adviser. Our project focuses on leveraging IoT to solve a real-world community problem.
 
 ---
 
