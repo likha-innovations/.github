@@ -1,5 +1,7 @@
 # Contributing to Likha Innovations
 
+For the current GitHub Free limitations and ruleset setup, see [GitHub setup](GITHUB_SETUP.md). Branch protection is not enforced on private repositories on GitHub Free; a lead's own pull request also needs approval from another reviewer.
+
 First off, thank you for contributing to our capstone project! This document serves as the **single source of truth** for how we collaborate, write code, and manage our repository. 
 
 Since we are an 8-member team working on a sustainable IoT project for the community, following these guidelines ensures we don't step on each other's toes and keep our codebase thesis-ready.
