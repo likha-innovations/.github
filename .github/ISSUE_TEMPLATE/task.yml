@@ -1,0 +1,31 @@
+name: Task
+description: Track system work that is not a bug or feature request.
+title: "[Task] "
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Task description
+      description: Describe the work and why it is needed.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Work to do
+      description: List the steps needed to complete the task.
+      placeholder: "- [ ] ...\n- [ ] ..."
+    validations:
+      required: true
+  - type: textarea
+    id: completion
+    attributes:
+      label: Completion criteria
+      description: Describe how to verify that the task is complete.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Add relevant links, dependencies, or notes.
