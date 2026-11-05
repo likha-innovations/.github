@@ -2,11 +2,9 @@
 
 ## Share the templates
 
-This checkout is the organization's `.github` repository. Its root `PULL_REQUEST_TEMPLATE.md` is a supported location for the default pull request template. The issue forms currently reside in the root `ISSUE_TEMPLATE/` folder at the team's request. GitHub requires shared issue forms and `config.yml` in `.github/ISSUE_TEMPLATE/` inside this repository, so move the three `.yml` files there before expecting them to appear. Merge the files into the default branch. The organization `.github` repository must be **public** for GitHub to use its defaults, including in private repositories. Do not put secrets in it.
+This checkout is the organization's `.github` repository. Its root `PULL_REQUEST_TEMPLATE.md` is a supported location for the default pull request template. Shared issue forms and `config.yml` are in `.github/ISSUE_TEMPLATE/` inside this repository. Merge the files into the default branch. The organization `.github` repository must be **public** for GitHub to use its defaults, including in private repositories. Do not put secrets in it.
 
 Repositories with their own issue templates or issue template configuration replace the entire shared issue template folder. A repository with its own pull request template uses that template instead. To customize a repository, copy the issue forms to `.github/ISSUE_TEMPLATE/` and the pull request template to the repository root, then edit them. Enable Issues in each repository where needed. The issue forms do not require custom labels, and blank issues remain available for other work.
-
-The older Markdown files in the root `ISSUE_TEMPLATE/` and `PR_TEMPLATE/` folders are not in the shared default issue-form and automatic pull-request-template locations.
 
 ## Protect `main` in public repositories
 
