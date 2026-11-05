@@ -60,6 +60,7 @@ We are 8 passionate innovators working together to turn ideas into reality. From
 For questions, collaborations, or feedback, feel free to reach out to our email account listed down below:
 
 **Email:** likhainnovations.tech@gmail.com
+**Facebook:** https://facebook.com/likhainnovations
 
 ---
 
