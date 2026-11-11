@@ -1,21 +1,45 @@
-## Summary
+## Description
 
-@coderabbitai summary
+<!-- Provide a clear summary of what this PR does and why. -->
 
-## Related issue
+## Type of Change
 
-<!-- Use Closes #123 when this PR completes an issue. -->
+- [ ] New feature
+- [ ] Bug fix
+- [ ] Refactoring (no functional changes)
+- [ ] Documentation update
+- [ ] Infrastructure / CI/CD
+- [ ] Performance improvement
 
-## Testing
+## Changes Made
 
-<!-- Describe tests and results, including hardware or simulation where relevant. Note anything not tested. -->
+<!-- List the specific changes. Be precise. -->
 
-## Screenshots or demo
+- 
+- 
+- 
 
-<!-- Include before and after images for UI changes, if applicable. -->
+## How to Test
+
+<!-- Step-by-step instructions for reviewers to verify this works. -->
+
+1. 
+2. 
+3. 
 
 ## Checklist
 
-- [ ] I reviewed my changes and updated documentation where needed.
-- [ ] I checked that no secrets or personal data were added.
-- [ ] I requested a review and described any risks or follow-up work.
+- [ ] Code follows the project's style guidelines
+- [ ] Self-reviewed the code for obvious errors
+- [ ] Added or updated tests where applicable
+- [ ] Existing tests pass locally
+- [ ] Updated documentation if needed
+- [ ] No new warnings or console errors introduced
+
+## Related Issues
+
+<!-- Link related tickets or issues. Use "Closes #123" to auto-close. -->
+
+## Screenshots
+
+<!-- If applicable, add screenshots or screen recordings. -->
